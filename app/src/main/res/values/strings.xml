@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_back_text">Welcome back</string>
+    <string name="login_to_start">Login to your account to start</string>
+    <string name="or">OR</string>
+</resources>
